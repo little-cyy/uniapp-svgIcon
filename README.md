@@ -26,7 +26,7 @@ module.exports = {
 
 ### 在static文件夹下创建svgs文件夹 ,将需要引用的svg文件放入该文件夹
 
-![image-20220814162620876](C:\Users\cyy\AppData\Roaming\Typora\typora-user-images\image-20220814162620876.png)
+
 
 ### 全局组件svg-icon.vue
 
